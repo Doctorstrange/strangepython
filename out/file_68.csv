@@ -1,0 +1,7 @@
+Model number,P-core (performance),P-core (performance),P-core (performance),P-core (performance),E-core (efficiency),E-core (efficiency),E-core (efficiency),E-core (efficiency),L3 cache,GPU model,GPU frequency,Power,Power,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Model number,Cores (threads),Freq.,Turbo,L2 cache,Cores (threads),Freq.,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,Base,Max Turbo,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Core i7-13650HX,6 (12),2.6 GHz,4.9 GHz,6 × 2 MB,8 (8),1.9 GHz,3.6 GHz,2 × 4 MB,24 MB,UHD Graphics (16 EU),?–1550 MHz,55 W,157 W,BGA 1964,DMI 4.0 ×8,January 2023,SRMED (B0),CM8071505158904,$485
+Core i7-13700HX,8 (16),2.1 GHz,5.0 GHz,8 × 2 MB,8 (8),1.5 GHz,3.6 GHz,2 × 4 MB,30 MB,UHD Graphics (32 EU),?–1550 MHz,55 W,157 W,BGA 1964,DMI 4.0 ×8,January 2023,SRME5 (C0) SRMLH (B0),CM8071505105534 CM8071505248804,$485
+Core i7-13850HX,8 (16),2.1 GHz,5.1 GHz,8 × 2 MB,12 (12),1.5 GHz,3.8 GHz,3 × 4 MB,30 MB,UHD Graphics (32 EU),?–1600 MHz,55 W,157 W,BGA 1964,DMI 4.0 ×8,January 2023,SRMEA (B0),CM8071505158504,$428
+Core i7-14650HX,8 (16),2.2 GHz,5.2 GHz,8 × 2 MB,8 (8),1.6 GHz,3.7 GHz,2 × 4 MB,30 MB,UHD Graphics (16 EU),?–1600 MHz,55 W,157 W,BGA 1964,DMI 4.0 ×8,January 2024,SRMXH (B0),CM8071505158923,$495
+Core i7-14700HX,8 (16),2.1 GHz,5.5 GHz,8 × 2 MB,12 (12),1.5 GHz,3.9 GHz,3 × 4 MB,33 MB,UHD Graphics (32 EU),?–1600 MHz,55 W,157 W,BGA 1964,DMI 4.0 ×8,January 2024,SRMXG (B0),CM8071505158514,$495

@@ -1,0 +1,8 @@
+0,1
+BCD oriented (4-bit),4004 (1971) 4040 (1974)
+pre-x86 (8-bit),8008 (1972) 8080 (1974) 8085 (1977)
+Early x86 (16-bit),8086 (1978) 8088 (1979) 80186 (1982) 80188 (1982) 80286 (1982)
+x87 (external FPUs),8/16-bit databus 8087 (1980) 16-bit databus 80187 80287 80387SX 32-bit databus 80387DX 80487
+IA-32 (32-bit),80386 SX 376 EX 80486 SX DX2 DX4 SL RapidCAD OverDrive A100/A110 Atom CE SoC Celeron (1998) M D (2004) Pentium Original P5 OverDrive Pro II II OverDrive III 4 M Dual-Core Core Xeon P6-based NetBurst-based Core-based Quark Tolapai
+x86-64 (64-bit),Atom SoC CE Celeron D Dual-Core Pentium 4 D Extreme Edition Dual-Core Core 2 1st gen 2nd gen 3rd gen 4th gen 5th gen 6th gen 7th gen 8th gen 9th gen 10th gen 11th gen M Xeon Nehalem-based Sandy Bridge-based Ivy Bridge-based Haswell-based Broadwell-based Skylake-based
+Other,CISC iAPX 432 EPIC Itanium RISC i860 i960 StrongARM XScale

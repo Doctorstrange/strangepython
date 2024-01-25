@@ -1,0 +1,5 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD)
+Core i7-10750H,SRH8Q (R1),6 (12),2.6 GHz,?/?/?/?/?/22 (24 w/ TVB),6 × 256 KB,12 MB,UHD Graphics 630,350–1150 MHz,45 W,BGA 1440,DMI 3.0,April 2020,CL8070104399315,$395
+Core i7-10850H,SRH8P (R1),6 (12),2.7 GHz,?/?/?/?/?/22 (24 w/ TVB),6 × 256 KB,12 MB,UHD Graphics 630,350–1150 MHz,45 W,BGA 1440,DMI 3.0,April 2020,CL8070104399211,$395
+Core i7-10870H,SRK3Y (R1),8 (16),2.2 GHz,?/?/?/?/?/?/?/26 (28 w/ TVB),8 × 256 KB,16 MB,UHD Graphics 630,350–1200 MHz,45 W,BGA 1440,DMI 3.0,September 2020,CL8070104399317,$417
+Core i7-10875H,SRJ8F (R1),8 (16),2.3 GHz,?/?/?/?/?/?/?/26 (28 w/ TVB),8 × 256 KB,16 MB,UHD Graphics 630,350–1200 MHz,45 W,BGA 1440,DMI 3.0,April 2020,CL8070104399111,$450

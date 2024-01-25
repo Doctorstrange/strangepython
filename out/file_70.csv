@@ -1,0 +1,4 @@
+Model number,P-core (performance),P-core (performance),P-core (performance),P-core (performance),E-core (efficiency),E-core (efficiency),E-core (efficiency),E-core (efficiency),L3 cache,GPU model,GPU frequency,Power,Power,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Model number,Cores (threads),Freq.,Turbo,L2 cache,Cores (threads),Freq.,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,Base,Max Turbo,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile
+Core i7-13705H,6 (12),2.4 GHz,5.0 GHz,6 × 1.25 MB,8 (8),1.8 GHz,3.7 GHz,2 × 2 MB,24 MB,Iris Xe (96 EU),?–1500 MHz,45 W,115 W,BGA 1792,DMI 4.0 ×8,January 2023,SRMHV (J0),FJ8071505204900,$502

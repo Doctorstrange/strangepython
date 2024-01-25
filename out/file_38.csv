@@ -1,0 +1,25 @@
+Model,sSpec number,Cores,Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD),Unnamed: 15,Unnamed: 16
+Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power
+Core i7-4700HQ,SR15E (C0),4,2.4 GHz,8/8/9/10[Note 2],4 × 256 KB,6 MB,HD Graphics 4600,400–1200 MHz,47 W,BGA-1364,DMI 2.0,June 2013,CL8064701470302,$383,,
+Core i7-4702HQ,SR15F (C0),4,2.2 GHz,7/7/9/10,4 × 256 KB,6 MB,HD Graphics 4600,400–1150 MHz,37 W,BGA-1364,DMI 2.0,June 2013,CL8064701470403,$383,,
+Core i7-4710HQ,SR1PX (C0),4,2.5 GHz,8/8/9/10,4 × 256 KB,6 MB,HD Graphics 4600,400–1200 MHz,47 W,BGA-1364,DMI 2.0,April 2014,CL8064701472304,$378,,
+Core i7-4712HQ,SR1PZ (C0),4,2.3 GHz,7/7/9/10,4 × 256 KB,6 MB,HD Graphics 4600,400–1150 MHz,37 W,BGA-1364,DMI 2.0,April 2014,CL8064701472704,$378,,
+Core i7-4720HQ,SR1Q8 (C0),4,2.6 GHz,8/8/9/10,4 × 256 KB,6 MB,HD Graphics 4600,400–1200 MHz,47 W,BGA-1364,DMI 2.0,January 2015,CL8064701472207,$378,,
+Core i7-4722HQ,SR1PY (C0),4,2.4 GHz,7/7/9/10,4 × 256 KB,6 MB,HD Graphics 4600,400–1150 MHz,37 W,BGA-1364,DMI 2.0,January 2015,CL8064701472605,$378,,
+Core i7-4750HQ,SR18J (C0),4,2 GHz,10/10/11/12,4 × 256 KB,6 MB,Iris Pro Graphics 5200,200–1200 MHz,47 W,BGA-1364,DMI 2.0,June 2013,CL8064701510101,$440,,
+Core i7-4760HQ,SR1BM (C0),4,2.1 GHz,10/10/11/12,4 × 256 KB,6 MB,Iris Pro Graphics 5200,200–1200 MHz,47 W,BGA-1364,DMI 2.0,April 2014,CL8064701510601,$434,,
+Core i7-4770HQ,SR1ZW (C0),4,2.2 GHz,10/10/11/12,4 × 256 KB,6 MB,Iris Pro Graphics 5200,200–1200 MHz,47 W,BGA-1364,DMI 2.0,July 2014,CL8064701956100,$434,,
+Core i7-4850HQ,SR18H (C0),4,2.3 GHz,10/10/11/12,4 × 256 KB,6 MB,Iris Pro Graphics 5200,200–1200 MHz,47 W,BGA-1364,DMI 2.0,June 2013,CL8064701509800,$468,,
+Core i7-4860HQ,SR1BP (C0),4,2.4 GHz,10/10/11/12,4 × 256 KB,6 MB,Iris Pro Graphics 5200,200–1200 MHz,47 W,BGA-1364,DMI 2.0,February 2014,CL8064701510800,$434,,
+Core i7-4870HQ,SR1ZX (C0),4,2.5 GHz,10/10/11/12,4 × 256 KB,6 MB,Iris Pro Graphics 5200,200–1200 MHz,47 W,BGA-1364,DMI 2.0,July 2014,CL8064701956200,$434,,
+Core i7-4950HQ,SR18G (C0),4,2.4 GHz,10/10/11/12,4 × 256 KB,6 MB,Iris Pro Graphics 5200,200–1300 MHz,47 W,BGA-1364,DMI 2.0,June 2013,CL8064701509700,$657,,
+Core i7-4960HQ,SR1BS (C0),4,2.6 GHz,10/10/11/12,4 × 256 KB,6 MB,Iris Pro Graphics 5200,200–1300 MHz,47 W,BGA-1364,DMI 2.0,September 2013,CL8064701511001,$657,,
+Core i7-4980HQ,SR1ZY (C0),4,2.8 GHz,10/10/11/12,4 × 256 KB,6 MB,Iris Pro Graphics 5200,200–1300 MHz,47 W,BGA-1364,DMI 2.0,July 2014,CL8064701956300,$623,,
+"Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded"
+Core i7-4700EC,SR1VZ (C0),4,2.7 GHz,—,4 × 256 KB,8 MB,—,—,43 W,BGA-1364,DMI 2.0,March 2014,CL8064701830000,$459,,
+Core i7-4700EQ,SR17L (C0),4,2.4 GHz,8/8/9/10,4 × 256 KB,6 MB,HD Graphics 4600,400–1000 MHz,47 W,BGA-1364,DMI 2.0,June 2013,CL8064701483802,$378,,
+Core i7-4701EQ,SR1H1 (C0),4,2.4 GHz,8/8/9/10,4 × 256 KB,6 MB,HD Graphics 4600,400–1000 MHz,47 W,BGA-1364,DMI 2.0,Q3 2013,CL8064701575100,$415,,
+Core i7-4850EQ,SR17X (C0),4,1.6 GHz,?/?/?/16,4 × 256 KB,6 MB,Iris Pro Graphics 5200,650–1000 MHz,47 W,BGA-1364,DMI 2.0,August 2013,CL8064701528402,$466,,
+Core i7-4860EQ,SR195 (C0),4,1.8 GHz,?/?/?/14,4 × 256 KB,6 MB,Iris Pro Graphics 5200,750–1000 MHz,47 W,BGA-1364,DMI 2.0,August 2013,CL8064701528404,$508,,
+"Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded"
+Core i7-4702EC,SR1W0 (C0),4,2 GHz,—,4 × 256 KB,8 MB,—,—,27 W,BGA-1364,DMI 2.0,March 2014,CL8064701830100,$459,,

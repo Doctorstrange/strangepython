@@ -1,0 +1,2 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD)
+Core i7-8500Y,SRD21 (H0),2 (4),1.5 GHz,4.2 GHz,2 × 256 KB,4 MB,HD Graphics 615,300–1050 MHz,5 W,BGA 1515,DMI 3.0,August 2018,HE8067702739858,$393

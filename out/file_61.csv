@@ -1,0 +1,8 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Memory,Release date,Part number(s),Release price (USD),Unnamed: 14,Unnamed: 15,Unnamed: 16
+Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile
+Core i7-1165G7,SRK01 (B1) SRK02 (B1),4 (8),1.2-2.8 GHz,4.7 GHz,4 × 1.25 MB,12 MB,Iris Xe (96 EU),?–1300 MHz,12–28 W,2× DDR4-3200 2× LPDDR4X-4266,September 2020,FH8069004529905 FH8069004530104,$426,,,
+Core i7-1185G7,SRK1F (B1),4 (8),1.2-3.0 GHz,4.8 GHz,4 × 1.25 MB,12 MB,Iris Xe (96 EU),?–1350 MHz,12–28 W,2× DDR4-3200 2× LPDDR4X-4266,September 2020,FH8069004529803,$426,,,
+Core i7-1195G7,SRKSB (C0) SRKSC (C0),4 (8),1.3-2.9 GHz,5.0 GHz,4 × 1.25 MB,12 MB,Iris Xe (96 EU),?–1400 MHz,12–28 W,2× DDR4-3200 2× LPDDR4X-4266,June 2021,FH8069004673301 FH8069004673401,$426,,,
+Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded
+Core i7-1185G7E,SRK0X (B1),4 (8),1.8 GHz,4.4 GHz,4 × 1.25 MB,12 MB,Iris Xe (96 EU),?–1350 MHz,12–28 W,2× DDR4-3200 2× LPDDR4X-4266,September 2020,FH8069004541800,$431,,,
+Core i7-1185GRE,SRK0Y (B1),4 (8),1.8 GHz,4.4 GHz,4 × 1.25 MB,12 MB,Iris Xe (96 EU),?–1350 MHz,12–28 W,2× DDR4-3200 2× LPDDR4X-4266,September 2020,FH8069004541900,$490,,,

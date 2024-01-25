@@ -1,0 +1,13 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD),Unnamed: 15,Unnamed: 16
+Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power
+Core i7-6700HQ,SR2FQ (R0),4 (8),2.6 GHz,5/7/7/9,4 × 256 KB,6 MB,HD Graphics 530,350–1050 MHz,45 W,BGA 1440,DMI 3.0,September 2015,CL8066202194635,$378,,
+Core i7-6770HQ,SR2QY (N0),4 (8),2.6 GHz,5/7/7/9,4 × 256 KB,6 MB,Iris Pro Graphics 580,350–950 MHz,45 W,BGA 1440,DMI 3.0,January 2016,JQ8066202195123,$378,,
+Core i7-6820HK,SR2FL (R0),4 (8),2.7 GHz,5/7/7/9,4 × 256 KB,8 MB,HD Graphics 530,350–1050 MHz,45 W,BGA 1440,DMI 3.0,September 2015,CL8066202194730,$378,,
+Core i7-6820HQ,SR2FU (R0),4 (8),2.7 GHz,5/7/7/9,4 × 256 KB,8 MB,HD Graphics 530,350–1050 MHz,45 W,BGA 1440,DMI 3.0,September 2015,CL8066202194731,$378,,
+Core i7-6870HQ,SR2QX (N0),4 (8),2.7 GHz,5/7/7/9,4 × 256 KB,8 MB,Iris Pro Graphics 580,350–1000 MHz,45 W,BGA 1440,DMI 3.0,January 2016,JQ8066202195122,$434,,
+Core i7-6920HQ,SR2FT (R0),4 (8),2.9 GHz,5/7/7/9,4 × 256 KB,8 MB,HD Graphics 530,350–1050 MHz,45 W,BGA 1440,DMI 3.0,September 2015,CL8066202194719,$568,,
+Core i7-6970HQ,SR2QW (N0),4 (8),2.8 GHz,5/7/7/9,4 × 256 KB,8 MB,Iris Pro Graphics 580,350–1050 MHz,45 W,BGA 1440,DMI 3.0,January 2016,JQ8066202195121,$623,,
+"Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded"
+Core i7-6820EQ,SR2DT (R0),4 (8),2.8 GHz,3.5 GHz,4 × 256 KB,8 MB,HD Graphics 530,350–1000 MHz,45 W,BGA 1440,DMI 3.0,October 2015,CL8066201939103,$378,,
+"Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded"
+Core i7-6822EQ,SR2DW (R0),4 (8),2 GHz,2.8 GHz,4 × 256 KB,8 MB,HD Graphics 530,300–1000 MHz,25 W,BGA 1440,DMI 3.0,October 2015,CL8066202302204,$378,,

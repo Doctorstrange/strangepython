@@ -1,0 +1,2 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD)
+Core i7-1060G7,,4 (8),1 GHz,24/?/?/28,4 × 512 KB,8 MB,Iris Plus Graphics (G7),300–1100 MHz,9 W,BGA 1377,DMI 3.0,Q3 2019,,

@@ -1,0 +1,3 @@
+Model,sSpec number,Cores,Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD)
+Core i7-4600M,SR1H7 (C0),2,2.9 GHz,5/7[Note 2],2 × 256 KB,4 MB,HD Graphics 4600,400–1300 MHz,37 W,Socket G3,DMI 2.0,September 2013,CW8064701486306,$346
+Core i7-4610M,SR1KY (C0),2,3 GHz,5/7[Note 2],2 × 256 KB,4 MB,HD Graphics 4600,400–1300 MHz,37 W,Socket G3,DMI 2.0,February 2014,CW8064701486301,$346

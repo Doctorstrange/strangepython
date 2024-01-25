@@ -1,0 +1,8 @@
+Model,sSpec number,Cores,Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD),Unnamed: 15,Unnamed: 16
+Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power
+Core i7-5557U,SR26E (F0),2,3.1 GHz,3/3,2 × 256 KB,4 MB,Iris Graphics 6100,300–1100 MHz,28 W,BGA-1168,DMI 2.0,January 2015,FH8065802063512,$426,,
+Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power
+Core i7-5500U,SR23W (F0),2,2.4 GHz,5/6,2 × 256 KB,4 MB,HD Graphics 5500,300–950 MHz,15 W,BGA-1168,DMI 2.0,January 2015,FH8065801620004,$393,,
+Core i7-5550U,SR26A (F0),2,2 GHz,9/10,2 × 256 KB,4 MB,HD Graphics 6000,300–1000 MHz,15 W,BGA-1168,DMI 2.0,January 2015,FH8065802063310,$426,,
+Core i7-5600U,SR23V (F0),2,2.6 GHz,5/6,2 × 256 KB,4 MB,HD Graphics 5500,300–950 MHz,15 W,BGA-1168,DMI 2.0,January 2015,FH8065801618304,$393,,
+Core i7-5650U,SR267 (F0),2,2.2 GHz,9/10,2 × 256 KB,4 MB,HD Graphics 6000,300–1000 MHz,15 W,BGA-1168,DMI 2.0,January 2015,FH8065801974816,$426,,

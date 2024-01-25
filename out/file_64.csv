@@ -1,0 +1,8 @@
+Model number,P-core (performance),P-core (performance),P-core (performance),P-core (performance),E-core (efficiency),E-core (efficiency),E-core (efficiency),E-core (efficiency),L3 cache,GPU model,GPU frequency,Power,Power,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Model number,Cores (threads),Freq.,Turbo,L2 cache,Cores (threads),Freq.,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,Base,Max Turbo,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile
+Core i7-12650H,6 (12),2.3 GHz,4.7 GHz,6 × 1.25 MB,4 (4),1.7 GHz,3.5 GHz,1 × 2 MB,24 MB,UHD Graphics (64 EU),?–1400 MHz,45 W,115 W,BGA 1744,DMI 4.0 ×8,January 2022,SRLD0 (L0),FJ8071504786006,$457
+Core i7-12700H,6 (12),2.3 GHz,4.7 GHz,6 × 1.25 MB,8 (8),1.7 GHz,3.5 GHz,2 × 2 MB,24 MB,Iris Xe (96 EU),?–1400 MHz,45 W,115 W,BGA 1744,DMI 4.0 ×8,January 2022,SRLD1 (L0),FJ8071504786106,$457
+Core i7-12800H,6 (12),2.4 GHz,4.8 GHz,6 × 1.25 MB,8 (8),1.8 GHz,3.7 GHz,2 × 2 MB,24 MB,Iris Xe (96 EU),?–1400 MHz,45 W,115 W,BGA 1744,DMI 4.0 ×8,January 2022,SRLD2 (L0),FJ8071504786205,$457
+Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded
+Core i7-12800HE,6 (12),?,4.6 GHz,6 × 1.25 MB,8 (8),?,3.5 GHz,2 × 2 MB,24 MB,Iris Xe (96 EU),?–1400 MHz,45 W,115 W,BGA 1744,DMI 4.0 ×8,January 2022,SRLE6 (L0),FJ8071504797807,$460

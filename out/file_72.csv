@@ -1,0 +1,7 @@
+Model number,P-core (performance),P-core (performance),P-core (performance),P-core (performance),E-core (efficiency),E-core (efficiency),E-core (efficiency),E-core (efficiency),L3 cache,GPU model,GPU frequency,Power,Power,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Model number,Cores (threads),Freq.,Turbo,L2 cache,Cores (threads),Freq.,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,Base,Max Turbo,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile
+Core i7-1355U,2 (4),1.7 GHz,5.0 GHz,2 × 1.25 MB,8 (8),1.2 GHz,3.7 GHz,2 × 2 MB,12 MB,Iris Xe (96 EU),?–1300 MHz,15 W,55 W,BGA 1744,DMI 4.0 ×8,January 2023,SRMLY (Q0),FJ8071505258901,$469
+Core i7-1365U,2 (4),1.8 GHz,5.2 GHz,2 × 1.25 MB,8 (8),1.3 GHz,3.9 GHz,2 × 2 MB,12 MB,Iris Xe (96 EU),?–1300 MHz,15 W,55 W,BGA 1744,DMI 4.0 ×8,January 2023,SRMM0 (Q0),FJ8071505259101,$426
+Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded
+Core i7-1365UE,2 (4),1.7 GHz,4.9 GHz,2 × 1.25 MB,8 (8),,3.7 GHz,2 × 2 MB,12 MB,Iris Xe (96 EU),?–1300 MHz,15 W,55 W,BGA 1744,DMI 4.0 ×8,January 2023,,,

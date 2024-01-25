@@ -1,0 +1,16 @@
+Model,sSpec number,Cores,Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD),Unnamed: 15,Unnamed: 16
+Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power
+Core i7-2620M,SR03F (J1) SR041 (J1),2,2.7 GHz,5/7[Note 2],2 × 256 KB,4 MB,HD Graphics 3000,650–1300 MHz,35 W,Socket G2 BGA-1023,DMI 2.0,February 2011,FF8062700838809 AV8062700839009,$346,,
+Core i7-2640M,SR03R (J1) SR043 (J1),2,2.8 GHz,5/7,2 × 256 KB,4 MB,HD Graphics 3000,650–1300 MHz,35 W,Socket G2 BGA-1023,DMI 2.0,September 2011,FF8062700838905 AV8062700839107,$346,,
+Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power
+Core i7-2629M,SR04D (J1),2,2.1 GHz,6/9,2 × 256 KB,4 MB,HD Graphics 3000,500–1100 MHz,25 W,BGA-1023,DMI 2.0,February 2011,AV8062700851111,$317,,
+Core i7-2649M,SR04N (J1),2,2.3 GHz,6/9,2 × 256 KB,4 MB,HD Graphics 3000,500–1100 MHz,25 W,BGA-1023,DMI 2.0,February 2011,AV8062700850010,$346,,
+"Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded","Low power, embedded"
+Core i7-2655LE,SR078 (D2),2,2.2 GHz,5/7,2 × 256 KB,4 MB,HD Graphics 3000,650–1000 MHz,25 W,BGA-1023,DMI 2.0,February 2011,AV8062700849508,$346,,
+Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power
+Core i7-2617M,SR03T (J1),2,1.5 GHz,8/11,2 × 256 KB,4 MB,HD Graphics 3000,350–950 MHz,17 W,BGA-1023,DMI 2.0,February 2011,AV8062701040904,$289,,
+Core i7-2637M,SR0D3 (J1),2,1.7 GHz,8/11,2 × 256 KB,4 MB,HD Graphics 3000,350–1200 MHz,17 W,BGA-1023,DMI 2.0,June 2011,AV8062701041105,$289,,
+Core i7-2657M,SR03S (J1),2,1.6 GHz,8/11,2 × 256 KB,4 MB,HD Graphics 3000,350–1000 MHz,17 W,BGA-1023,DMI 2.0,February 2011,AV8062701040804,$317,,
+Core i7-2677M,SR0D2 (J1),2,1.8 GHz,8/11,2 × 256 KB,4 MB,HD Graphics 3000,350–1200 MHz,17 W,BGA-1023,DMI 2.0,June 2011,AV8062701041005,$317,,
+"Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded","Ultra-low power, embedded"
+Core i7-2610UE,SR079 (D2),2,1.5 GHz,6/9,2 × 256 KB,4 MB,HD Graphics 3000,350–850 MHz,17 W,BGA-1023,DMI 2.0,February 2011,AV8062700849607,$317,,

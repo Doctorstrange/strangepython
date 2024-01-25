@@ -1,0 +1,9 @@
+Model,sSpec number,Cores,Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD),Unnamed: 15,Unnamed: 16
+Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power
+Core i7-5700HQ,SR2BP (G0),4,2.7 GHz,3.5 GHz,4 × 256 KB,6 MB,HD Graphics 5600,300–1050 MHz,47 W,BGA-1364,DMI 2.0,June 2015,FH8065802491903,$378,,
+Core i7-5750HQ,SR2BL (G0),4,2.5 GHz,3.4 GHz,4 × 256 KB,6 MB,Iris Pro Graphics 6200,300–1050 MHz,47 W,BGA-1364,DMI 2.0,June 2015,FH8065802491802,$434,,
+Core i7-5850HQ,SR2BH (G0),4,2.7 GHz,3.6 GHz,4 × 256 KB,6 MB,Iris Pro Graphics 6200,300–1100 MHz,47 W,BGA-1364,DMI 2.0,June 2015,FH8065802491501,$434,,
+Core i7-5950HQ,SR2BJ (G0),4,2.9 GHz,3.7 GHz,4 × 256 KB,6 MB,Iris Pro Graphics 6200,300–1150 MHz,47 W,BGA-1364,DMI 2.0,June 2015,FH8065802491601,$623,,
+"Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded"
+Core i7-5700EQ,SR2E6 (G0),4,2.6 GHz,3.4 GHz,4 × 256 KB,6 MB,HD Graphics 5600,300–1000 MHz,47 W,BGA-1364,DMI 2.0,June 2015,FH8065802420402,$378,,
+Core i7-5850EQ,SR2E8 (G0),4,2.7 GHz,3.4 GHz,4 × 256 KB,6 MB,Iris Pro Graphics 6200,300–1000 MHz,47 W,BGA-1364,DMI 2.0,June 2015,FH8065802420503,$435,,

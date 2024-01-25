@@ -1,0 +1,2 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD)
+Core i7-10510Y,SRGSC (V0),4 (8),1.2 GHz,20/?/?/33,4 × 256 KB,8 MB,UHD Graphics 620,300–1150 MHz,7 W,BGA 1377,DMI 3.0,August 2019,FJ8068404190220,$403

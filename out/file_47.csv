@@ -1,0 +1,5 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD)
+Core i7-8705G,SR3RK (B0),4 (8),3.1 GHz,4.1 GHz,4 × 256 KB,8 MB,HD Graphics 630 Radeon RX Vega M GL Graphics,350–1100 MHz 931–1011 MHz,65 W,BGA 2270,DMI 3.0,February 2018,FH8067703417515,$523
+Core i7-8706G,SR3RJ (B0) SRCXS (B0),4 (8),3.1 GHz,4.1 GHz,4 × 256 KB,8 MB,HD Graphics 630 Radeon RX Vega M GL Graphics,350–1100 MHz 931–1011 MHz,65 W,BGA 2270,DMI 3.0,February 2018,FH8067703417418,$
+Core i7-8709G,SR3RN (B0),4 (8),3.1 GHz,4.1 GHz,4 × 256 KB,8 MB,HD Graphics 630 Radeon RX Vega M GH Graphics,350–1100 MHz 1063–1190 MHz,100 W,BGA 2270,DMI 3.0,February 2018,FH8067703419113,$546
+Core i7-8809G,SR3RL (B0),4 (8),3.1 GHz,4.2 GHz,4 × 256 KB,8 MB,HD Graphics 630 Radeon RX Vega M GH Graphics,350–1100 MHz 1063–1190 MHz,100 W,BGA 2270,DMI 3.0,February 2018,FH8067703417615,$546

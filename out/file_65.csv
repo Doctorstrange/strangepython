@@ -1,0 +1,8 @@
+Model number,P-core (performance),P-core (performance),P-core (performance),P-core (performance),E-core (efficiency),E-core (efficiency),E-core (efficiency),E-core (efficiency),L3 cache,GPU model,GPU frequency,Power,Power,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Model number,Cores (threads),Freq.,Turbo,L2 cache,Cores (threads),Freq.,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,Base,Max Turbo,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile
+Core i7-1260P,4 (8),2.1 GHz,4.7 GHz,4 × 1.25 MB,8 (8),1.5 GHz,3.4 GHz,2 × 2 MB,18 MB,Iris Xe (96 EU),?–1400 MHz,28 W,64 W,BGA 1744,DMI 4.0 ×8,February 2022,SRLD6 (L0),FJ8071504786607,$438
+Core i7-1270P,4 (8),2.2 GHz,4.8 GHz,4 × 1.25 MB,8 (8),1.6 GHz,3.5 GHz,2 × 2 MB,18 MB,Iris Xe (96 EU),?–1400 MHz,28 W,64 W,BGA 1744,DMI 4.0 ×8,February 2022,SRLD7 (L0),FJ8071504786708,$438
+Core i7-1280P,6 (12),1.8 GHz,4.8 GHz,6 × 1.25 MB,8 (8),1.3 GHz,3.6 GHz,2 × 2 MB,24 MB,Iris Xe (96 EU),?–1450 MHz,28 W,64 W,BGA 1744,DMI 4.0 ×8,February 2022,SRLD5 (L0),FJ8071504786505,$482
+Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded,Embedded
+Core i7-1270PE,4 (8),,4.5 GHz,4 × 1.25 MB,8 (8),,3.3 GHz,2 × 2 MB,18 MB,Iris Xe (96 EU),?–1350 MHz,28 W,64 W,BGA 1744,DMI 4.0 ×8,February 2022,SRLE4 (L0),FJ8071504796516,$485

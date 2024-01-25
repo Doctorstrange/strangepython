@@ -1,0 +1,2 @@
+Model,sSpec number,Cores,Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD)
+Core i7-4610Y,SR18D (D0),2,1.7 GHz,9/12,2 × 256 KB,4 MB,HD Graphics 4200,200–850 MHz,11.5 W,BGA-1168,DMI 2.0,September 2013,CL8064701512303,$415

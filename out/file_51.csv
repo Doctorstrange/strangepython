@@ -1,0 +1,2 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD)
+Core i7-8700B,SRCX2 (U0),6 (12),3.2 GHz,11/11/11/12/13/14,6 × 256 KB,12 MB,UHD Graphics 630,350–1200 MHz,65 W,BGA 1440,DMI 3.0,April 2018,CL8068403611210,$303

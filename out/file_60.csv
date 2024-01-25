@@ -1,0 +1,4 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Memory,Release date,Part number(s),Release price (USD)
+Core i7-11370H,SRKH5 (B1),4 (8),3.0-3.3 GHz,4.8 GHz,4 × 1.25 MB,12 MB,Iris Xe (96 EU),?–1300 MHz,28–35 W,2× DDR4-3200 2× LPDDR4X-4266,January 2021,FH8069004599910,$426
+Core i7-11375H,SRKH4 (B1),4 (8),3.0-3.3 GHz,5.0 GHz,4 × 1.25 MB,12 MB,Iris Xe (96 EU),?–1300 MHz,28–35 W,2× DDR4-3200 2× LPDDR4X-4266,January 2021,FH8069004599909,$482
+Core i7-11390H,SRKSL (C0),4 (8),2.9-3.4 GHz,5.0 GHz,4 × 1.25 MB,12 MB,Iris Xe (96 EU),?–1400 MHz,28–35 W,2× DDR4-3200 2× LPDDR4X-4266,June 2021,FH8069004675105,$426

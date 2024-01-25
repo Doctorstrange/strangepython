@@ -1,0 +1,6 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD),Unnamed: 15,Unnamed: 16
+Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power
+Core i7-1068G7[18],,4 (8),2.3 GHz,13/?/?/18,4 × 512 KB,8 MB,Iris Plus Graphics (G7),300–1100 MHz,28 W,,DMI 3.0,August 2019,,,,
+Core i7-1068NG7,SRG0U (D1),4 (8),2.3 GHz,13/?/?/18,4 × 512 KB,8 MB,Iris Plus Graphics (G7),300–1100 MHz,28 W,,DMI 3.0,May 2020,FJ8068904334602,$426,,
+Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power,Ultra-low power
+Core i7-1065G7,SRG0N (D1),4 (8),1.3 GHz,22/?/25/26,4 × 512 KB,8 MB,Iris Plus Graphics (G7),300–1100 MHz,15 W,,DMI 3.0,August 2019,FJ8068904310403,$426,,

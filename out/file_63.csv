@@ -1,0 +1,5 @@
+Model number,P-core (performance),P-core (performance),P-core (performance),P-core (performance),E-core (efficiency),E-core (efficiency),E-core (efficiency),E-core (efficiency),L3 cache,GPU model,GPU frequency,Power,Power,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Model number,Cores (threads),Freq.,Turbo,L2 cache,Cores (threads),Freq.,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,Base,Max Turbo,Socket,I/O bus,Release date,sSpec number,Part number(s),Release price (USD)
+Core i7-12650HX,6 (12),2.0 GHz,4.7 GHz,6 × 1.25 MB,8 (8),1.5 GHz,3.3 GHz,2 × 2 MB,24 MB,UHD Graphics (32 EU),?–1450 MHz,55 W,157 W,BGA 1964,DMI 4.0 ×8,May 2022,SRLGM (C0),CM8071504828308,$428
+Core i7-12800HX,8 (16),2.0 GHz,4.8 GHz,8 × 1.25 MB,8 (8),1.5 GHz,3.4 GHz,2 × 2 MB,25 MB,UHD Graphics (32 EU),?–1450 MHz,55 W,157 W,BGA 1964,DMI 4.0 ×8,May 2022,SRLGL (C0),CM8071504828207,$457
+Core i7-12850HX,8 (16),2.1 GHz,4.8 GHz,8 × 1.25 MB,8 (8),1.5 GHz,3.4 GHz,2 × 2 MB,25 MB,UHD Graphics (32 EU),?–1450 MHz,55 W,157 W,BGA 1964,DMI 4.0 ×8,May 2022,SRLGH (C0),CM8071504799913,$428

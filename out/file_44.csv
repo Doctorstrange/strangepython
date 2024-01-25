@@ -1,0 +1,8 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD),Unnamed: 15,Unnamed: 16
+Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power
+Core i7-7567U,SR2ZV (H0),2 (4),3.5 GHz,4/5,2 × 256 KB,4 MB,Iris Plus Graphics 650,300–1150 MHz,28 W,BGA 1356,DMI 3.0,January 2017,FJ8067702739740,$415,,
+Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power
+Core i7-7500U,SR2ZV (H0) SR341 (H0),2 (4),2.7 GHz,8/8,2 × 256 KB,4 MB,HD Graphics 620,300–1050 MHz,15 W,BGA 1356,DMI 3.0,September 2016,FJ8067702739740,$393,,
+Core i7-7560U,SR366 (J1),2 (4),2.4 GHz,13/14,2 × 256 KB,4 MB,Iris Plus Graphics 640,300–1050 MHz,15 W,BGA 1356,DMI 3.0,January 2017,FH8067703037007,$415,,
+Core i7-7600U,SR33Z (H0),2 (4),2.8 GHz,11/11,2 × 256 KB,4 MB,HD Graphics 620,300–1150 MHz,15 W,BGA 1356,DMI 3.0,January 2017,FJ8067702739628,$393,,
+Core i7-7660U,SR368 (J1),2 (4),2.5 GHz,13/15,2 × 256 KB,4 MB,Iris Plus Graphics 640,300–1100 MHz,15 W,BGA 1356,DMI 3.0,January 2017,FH8067703036924,$415,,

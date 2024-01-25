@@ -1,0 +1,8 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD),Unnamed: 15,Unnamed: 16
+Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power
+Core i7-7700HQ,SR32Q (B0),4 (8),2.8 GHz,6/7/8/10,4 × 256 KB,6 MB,HD Graphics 630,350–1100 MHz,45 W,BGA 1440,DMI 3.0,January 2017,CL8067702870109,$378,,
+Core i7-7820HQ,SR32N (B0),4 (8),2.9 GHz,6/7/8/10,4 × 256 KB,8 MB,HD Graphics 630,350–1100 MHz,45 W,BGA 1440,DMI 3.0,January 2017,CL8067702869911,$378,,
+Core i7-7820HK,SR32P (B0),4 (8),2.9 GHz,6/7/8/10,4 × 256 KB,8 MB,HD Graphics 630,350–1100 MHz,45 W,BGA 1440,DMI 3.0,January 2017,CL8067702870009,$378,,
+Core i7-7920HQ,SR32L (B0),4 (8),3.1 GHz,6/7/8/10,4 × 256 KB,8 MB,HD Graphics 630,350–1100 MHz,45 W,BGA 1440,DMI 3.0,January 2017,CL8067702869821,$568,,
+"Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded","Standard power, embedded"
+Core i7-7820EQ,SR34S (B0),4 (8),3 GHz,3.7 GHz,4 × 256 KB,8 MB,HD Graphics 630,350–1000 MHz,45 W,BGA 1440,DMI 3.0,January 2017,CL8067702998607,$378,,

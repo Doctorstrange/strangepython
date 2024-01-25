@@ -1,0 +1,6 @@
+Model,sSpec number,Cores (threads),Clock rate,Turbo,L2 cache,L3 cache,GPU model,GPU frequency,TDP,Socket,I/O bus,Release date,Part number(s),Release price (USD),Unnamed: 15,Unnamed: 16
+Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power,Standard power
+Core i7-8559U,SRCK5 (D0),4 (8),2.7 GHz,4.5 GHz,4 × 256 KB,8 MB,Iris Plus Graphics 655,300–1200 MHz,28 W,BGA 1528,DMI 3.0,April 2018,FH8068403419332,$431,,
+Core i7-8569U,SREYZ (D0),4 (8),2.8 GHz,4.7 GHz,4 × 256 KB,8 MB,Iris Plus Graphics 655,300–1200 MHz,28 W,BGA 1528,DMI 3.0,May 2019,FH8068404163006,$431,,
+Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power,Low power
+Core i7-8557U,SREZ1 (D0),4 (8),1.7 GHz,4.5 GHz,4 × 256 KB,8 MB,Iris Plus Graphics 645,300–1150 MHz,15 W,BGA 1528,DMI 3.0,July 2019,FH8068404166107,$431,,
